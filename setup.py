@@ -43,9 +43,9 @@ dev_dependencies = [
 kwargs = dict(
     name="xcha-blockchain",
     author="Mariano Sorgente",
-    author_email="mariano@chia.net",
+    author_email="xchanet@gmail.com",
     description="xcha blockchain full node, farmer, timelord, and wallet.",
-    url="https://xcha.io/",
+    url="http://xcha.io/",
     license="Apache License",
     python_requires=">=3.7, <4",
     keywords="xcha blockchain node",

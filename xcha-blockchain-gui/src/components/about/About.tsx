@@ -70,7 +70,7 @@ const Spacer = styled.div`
   margin-bottom: 1rem;
 `;
 
-const url = 'https://xcha.io';
+const url = 'http://xcha.io';
 
 type Props = {
   version: string;
@@ -144,7 +144,7 @@ export default function About(props: Props) {
         </VersionsTable>
 
         <BugReport
-          href="https://github.com/Xcha-Network/xcha-blockchain/issues"
+          href="https://github.com/xchaio/xcha-blockchain/issues"
           target="_blank"
         >
           Report an issue
