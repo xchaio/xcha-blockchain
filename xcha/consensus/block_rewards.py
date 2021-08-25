@@ -38,7 +38,7 @@ def calculate_base_farmer_reward(height: uint32) -> uint64:
     rates increase continuously.
     """
     if height == 0:
-        return uint64(int( 8000000 * _mojo_per_chia))
+        return uint64(int((1 / 8) * 8000000 * _mojo_per_chia))
     elif height < 3 * _blocks_per_year:
         return uint64(int((1 / 8) * 2 * _mojo_per_chia))
     elif height < 6 * _blocks_per_year:
