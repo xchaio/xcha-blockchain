@@ -60,19 +60,6 @@ export default function FarmLatestBlockChallenges() {
         rowsPerPage={5}
         pages
       />
-      <Typography variant="caption">
-        <Trans>
-          *Want to explore Xcha’s blocks further? Check out{' '}
-          <Link
-            color="primary"
-            href="https://www.chiaexplorer.com/"
-            target="_blank"
-          >
-            Xcha Explorer
-          </Link>{' '}
-          built by an open source developer.
-        </Trans>
-      </Typography>
     </Card>
   );
 }
