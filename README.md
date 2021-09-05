@@ -6,3 +6,8 @@ XCHA Beta Protocol
 Inspired and based by Chia, XCHA network is a more advanced blockchain and smart trading platform created by anonymous Chia Network programmer who was also part of the creation of Ethereum. Comparing to Chia, XCHA creates a more decentralized distributing storage mining method, which creates a more democratic financial modeling. 
 
 
+XCHA Nft Pool
+---
+http://xpool.xcha.io/
+
+
