@@ -8,6 +8,6 @@ Inspired and based by Chia, XCHA network is a more advanced blockchain and smart
 
 XCHA Nft Pool
 ---
-http://xpool.xcha.io/
+http://xpool.xcha.io
 
 
